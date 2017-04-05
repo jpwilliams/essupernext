@@ -1,6 +1,6 @@
 {
   "name": "essupernext",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES2018 a.k.a. \"ESSuper-Next\". Dot-syntax and keyword conversion.",
   "main": "index.js",
   "scripts": {
