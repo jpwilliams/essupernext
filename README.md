@@ -1,4 +1,11 @@
 # essupernext
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+![Downloads](https://img.shields.io/badge/downloads-319k/month-brightgreen.svg)
+![https://npmjs.com/package/essupernext](https://img.shields.io/npm/v/essupernext.svg)
+[![Month](https://img.shields.io/badge/month-april-ff69b4.svg)](https://en.wikipedia.org/wiki/April_Fools%27_Day)
+
 ES2018 a.k.a. "ESSuper-Next". Dot-syntax and keyword conversion.
 
 [![ES2018 First Look - it changes everything](http://i.imgur.com/Nr4MYev.png)](https://youtu.be/s-G_RZ4RJLU "ES2018 First Look - it changes everything")
