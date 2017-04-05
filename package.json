@@ -1,0 +1,27 @@
+{
+  "name": "essupernext",
+  "version": "0.0.0",
+  "description": "ES2018 a.k.a. \"ESSuper-Next\". Dot-syntax and keyword conversion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwilliams/essupernext.git"
+  },
+  "keywords": [
+    "ES2018",
+    "ECMA",
+    "supernext",
+    "ESSuperNext",
+    "LearnCode",
+    "April"
+  ],
+  "author": "Jack Williams <jack@wildfire.gg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpwilliams/essupernext/issues"
+  },
+  "homepage": "https://github.com/jpwilliams/essupernext#readme"
+}
