@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jpwilliams/essupernext/issues"
   },
-  "homepage": "https://github.com/jpwilliams/essupernext#readme"
+  "homepage": "https://github.com/jpwilliams/essupernext#readme",
+  "bin": {
+    "essupernext": "bin/parse.js"
+  }
 }
