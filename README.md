@@ -1,9 +1,9 @@
 # essupernext
-ES2018 a.k.a. "ESSuper-Next". Dot-syntax and keyword conversion.
+ES2017 a.k.a. "ESSuper-Next". Dot-syntax and keyword conversion.
 
-[![ES2018 First Look - it changes everything](http://i.imgur.com/Nr4MYev.png)](https://youtu.be/s-G_RZ4RJLU "ES2018 First Look - it changes everything")
+[![ES2017 First Look - it changes everything](http://i.imgur.com/Nr4MYev.png)](https://youtu.be/s-G_RZ4RJLU "ES2017 First Look - it changes everything")
 
-Handy DIY compiler for dot syntax to get your code ready for ES2018.
+Handy DIY compiler for dot syntax to get your code ready for ES2017.
 
 ### Usage
 
@@ -14,7 +14,7 @@ essupernext index.js
 
 ### Example output
 
-(_GitHub, stupidly, doesn't support proper highlighting for ES2018, so this will look off. Still tonnes more readable though!_)
+(_GitHub, stupidly, doesn't support proper highlighting for ES2017, so this will look off. Still tonnes more readable though!_)
 
 ``` js
 c joi . require.'joi'.
